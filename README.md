@@ -59,11 +59,6 @@ jogoDoNumeroSecreto/
 
 ---
 
-## 🖼️ Screenshots  
-<img src="img/JOGOO.png" alt="Screenshot do Jogo do Número Secreto" width="600">
-
----
-
 ## 🤝 Contribuições  
 Sinta-se à vontade para contribuir com melhorias ou sugerir novas funcionalidades!  
 
