@@ -60,7 +60,7 @@ jogoDoNumeroSecreto/
 ---
 
 ## 🖼️ Screenshots  
-<img src="img/screenshot.png" alt="Screenshot do Jogo do Número Secreto" width="600">
+<img src="img/JOGOO.png" alt="Screenshot do Jogo do Número Secreto" width="600">
 
 ---
 
