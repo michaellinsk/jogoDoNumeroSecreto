@@ -86,4 +86,9 @@ Este projeto está sob a licença MIT. Sinta-se livre para utilizá-lo e modific
 
 ## 📞 Contato  
 Michael Rodrigues  
-[GitHub](https://github.com/michaellinsk)  
+
+[Linkedin](inkedin.com/in/michael-lfrodrigues/) 
+[GitHub](https://github.com/michaellinsk) 
+[E-Mail](michael.linsk01@gmail.com)
+
+
