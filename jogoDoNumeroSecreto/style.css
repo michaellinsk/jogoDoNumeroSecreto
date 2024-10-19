@@ -6,13 +6,12 @@
 }
 
 body {
-    background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
+    background: linear-gradient(#121d2b 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
 
 body::before {
     background-image: url("img/code.png");
